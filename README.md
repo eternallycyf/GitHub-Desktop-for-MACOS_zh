@@ -1,4 +1,4 @@
-# MACOS-GitHub-Desktop-chinese-translate
+# [GitHub-Desktop-for-MACOS_zh](https://github.com/eternallycyf/GitHub-Desktop-for-MACOS_zh)
 
 Macos Version 2.6.3
 
