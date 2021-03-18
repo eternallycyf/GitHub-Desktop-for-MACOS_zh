@@ -9,5 +9,6 @@ Macos Version 2.6.3
 
 ```
 /Applications/GitHub Desktop.app/Contents/Resources/app
+
 ```
 
