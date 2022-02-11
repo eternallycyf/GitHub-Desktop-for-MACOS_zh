@@ -23,6 +23,7 @@
 ## 4. 目前我在用的新的`git`工具 
 - [Fork](https://git-fork.com/)
   - 超好用 就是没中文 不过其实不需要中文
+  - 免费的 不用管 直接点击就下载了
 - [git地址](https://github.com/fork-dev/Tracker)
 ![image](https://git-fork.com/images/carousel/carousel_repomanagerMac1.jpg)
 ![image](https://git-fork.com/images/carousel/carousel_mainMac.jpg)
