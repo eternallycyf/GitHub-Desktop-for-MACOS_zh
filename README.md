@@ -2,6 +2,7 @@
 
 ## 1. For GitHub Desktop macOS Version 3.1.2
 - 请确保您 mac 上的 GitHub Desktop 版本为 3.1.2，否则请勿进行替换操作！
+- 汉化可能会出现不准确/不完整的情况，欢迎修改/补充。
 
 ## 2. 使用方式 
 - ### 2.1 克隆仓库。
